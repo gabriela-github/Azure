@@ -9,7 +9,8 @@
 ![image](https://github.com/gabriela-github/Azure/assets/95176901/105968dc-22cf-460f-948f-ee4143e68a6c)
 ![image](https://github.com/gabriela-github/Azure/assets/95176901/dd121b13-e3ec-4b25-8415-2ad1b979fbca)
 
-
+Acesse em: <https://app.powerbi.com/groups/me/reports/cac26de2-0976-47c9-a227-1185300b1f81/ReportSection?experience=power-bi>
+![image](https://github.com/gabriela-github/Azure/assets/95176901/53acf167-d60e-434c-9298-ed7398f469ff)
 
 
 
